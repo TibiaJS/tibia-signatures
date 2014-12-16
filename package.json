@@ -1,6 +1,6 @@
 {
   "name": "tibia-signatures",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Repository to store signatures of the Tibia files",
   "main": "index.js",
   "repository": {
