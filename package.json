@@ -1,0 +1,27 @@
+{
+  "name": "tibia-signatures",
+  "version": "0.0.1",
+  "description": "Repository to store signatures of the Tibia files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TibiaJS/tibia-signatures.git"
+  },
+  "keywords": [
+    "tibia",
+    "signatures",
+    "otserv",
+    "tibia.spr",
+    "tibia.dat",
+    "cipsoft"
+  ],
+  "bugs": {
+    "url": "https://github.com/TibiaJS/tibia-signatures/issues"
+  },
+  "homepage": "https://github.com/TibiaJS/tibia-signatures",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gpedro <gpedro831@gmail.com>",
+  "license": "MIT"
+}
